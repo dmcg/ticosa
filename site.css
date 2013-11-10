@@ -1,0 +1,54 @@
+
+body {
+	background-color: #6b6357;
+	font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;	font-size: 12pt;
+}
+
+#container {
+	color: #4c4c4c;
+	background-color: #F4F1DA;
+	width: 700px;
+	margin: 0 auto;
+	border: 2px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+
+#main {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	min-height: 500px;
+}
+
+#callout {
+	float: right;  
+}
+
+a {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+h1 {
+  font-weight: normal
+}
+
+h2 {
+  font-weight: normal
+}
+
+p {
+	line-height: 15pt;
+}
+
+.photo-credit {
+	font-size: 50%;
+}
+
