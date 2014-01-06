@@ -54,7 +54,7 @@ img, #callout {
 }
 
 a {
-	color: grey;
+	color: #5e462f;
 	text-decoration: none;
 }
 
@@ -78,4 +78,19 @@ p {
 .photo-credit {
 	font-size: 50%;
 }
+
+td.time {
+	text-align: center;
+	vertical-align: top;
+}
+
+td.speaker {
+	font-style: italic;
+}
+
+#programme tr {
+	vertical-align: top;
+	height: 2em;
+}
+
 
